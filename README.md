@@ -2,6 +2,10 @@
 
 ---
 
+Deployed at [https://surtaals.vercel.app/](https://surtaals.vercel.app/)
+
+---
+
 **Overview:**
 
 Surtaals is a website dedicated to providing a platform for enthusiasts of authentic Indian music. This repository contains the source code for the Surtaals website, which showcases various features and information related to Indian classical music, including Raagas, insights about Indian musical traditions, and the option to purchase or redeem gift cards.
